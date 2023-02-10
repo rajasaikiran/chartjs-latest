@@ -1,0 +1,1741 @@
+[
+    {
+       "userEmail":"r.dohmen@cowmanager.com",
+       "userName":"Roel Dohmen",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"c.bolk@cowmanager.com",
+       "userName":"Camiela Bolk",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-10T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-10T16:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGZkMThmMDc3LWNmNGQtNDc5Ny05YTliLTBhYzI4MjY1NjAxNwBGAAAAAADgnoYF9VuJR5taI-TURNcTBwB8KzdTV3XEQ7PpNl7jtfdyAAAAAAENAAB8KzdTV3XEQ7PpNl7jtfdyAAQByVbQAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"fCs3U1d1xEOz6TZe47X3cgAFAbdWfA==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-02T17:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-02T16:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGZkMThmMDc3LWNmNGQtNDc5Ny05YTliLTBhYzI4MjY1NjAxNwBGAAAAAADgnoYF9VuJR5taI-TURNcTBwB8KzdTV3XEQ7PpNl7jtfdyAAAAAAENAAB8KzdTV3XEQ7PpNl7jtfdyAAQByVbKAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"fCs3U1d1xEOz6TZe47X3cgAFAbdGtg==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGZkMThmMDc3LWNmNGQtNDc5Ny05YTliLTBhYzI4MjY1NjAxNwBGAAAAAADgnoYF9VuJR5taI-TURNcTBwB8KzdTV3XEQ7PpNl7jtfdyAAAAAAENAAB8KzdTV3XEQ7PpNl7jtfdyAAQByVbCAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"fCs3U1d1xEOz6TZe47X3cgAE/2fLQQ==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-17T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-11T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGZkMThmMDc3LWNmNGQtNDc5Ny05YTliLTBhYzI4MjY1NjAxNwBGAAAAAADgnoYF9VuJR5taI-TURNcTBwB8KzdTV3XEQ7PpNl7jtfdyAAAAAAENAAB8KzdTV3XEQ7PpNl7jtfdyAAQByVYoAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"fCs3U1d1xEOz6TZe47X3cgAE7vAvDg==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"p.hut@cowmanager.com",
+       "userName":"Peter Hut",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-10T11:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-10T10:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADM3MDYxOWYwLTllNTUtNDBmMC1iZDFiLWIzYjJiZTczYWFhMQBGAAAAAABWYjEZj0pmQZ0CcSA6KkYrBwDT0E5CEdDjSJd9GhwKYa7WAAAAAAENAADT0E5CEdDjSJd9GhwKYa7WAAC89sDYAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"09BOQhHQ40iXfRocCmGu1gAAvJ3Vow==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-06T14:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-06T13:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADM3MDYxOWYwLTllNTUtNDBmMC1iZDFiLWIzYjJiZTczYWFhMQBGAAAAAABWYjEZj0pmQZ0CcSA6KkYrBwDT0E5CEdDjSJd9GhwKYa7WAAAAAAENAADT0E5CEdDjSJd9GhwKYa7WAAC89sDXAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"09BOQhHQ40iXfRocCmGu1gAAv26tKg==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-16T23:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-16T19:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADM3MDYxOWYwLTllNTUtNDBmMC1iZDFiLWIzYjJiZTczYWFhMQBGAAAAAABWYjEZj0pmQZ0CcSA6KkYrBwDT0E5CEdDjSJd9GhwKYa7WAAAAAAENAADT0E5CEdDjSJd9GhwKYa7WAAC31OvOAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"09BOQhHQ40iXfRocCmGu1gAAupJgTQ==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-01T11:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T10:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADM3MDYxOWYwLTllNTUtNDBmMC1iZDFiLWIzYjJiZTczYWFhMQBGAAAAAABWYjEZj0pmQZ0CcSA6KkYrBwDT0E5CEdDjSJd9GhwKYa7WAAAAAAENAADT0E5CEdDjSJd9GhwKYa7WAAC1-_yQAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"09BOQhHQ40iXfRocCmGu1gAAupKtGw==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-07T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-07T16:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADM3MDYxOWYwLTllNTUtNDBmMC1iZDFiLWIzYjJiZTczYWFhMQBGAAAAAABWYjEZj0pmQZ0CcSA6KkYrBwDT0E5CEdDjSJd9GhwKYa7WAAAAAAENAADT0E5CEdDjSJd9GhwKYa7WAACoVw8ZAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"09BOQhHQ40iXfRocCmGu1gAAqAcGBQ==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-02T12:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-02T11:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADM3MDYxOWYwLTllNTUtNDBmMC1iZDFiLWIzYjJiZTczYWFhMQBGAAAAAABWYjEZj0pmQZ0CcSA6KkYrBwDT0E5CEdDjSJd9GhwKYa7WAAAAAAENAADT0E5CEdDjSJd9GhwKYa7WAAChMhSdAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"09BOQhHQ40iXfRocCmGu1gAAvJ2COQ==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-03-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-25T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADM3MDYxOWYwLTllNTUtNDBmMC1iZDFiLWIzYjJiZTczYWFhMQBGAAAAAABWYjEZj0pmQZ0CcSA6KkYrBwDT0E5CEdDjSJd9GhwKYa7WAAAAAAENAADT0E5CEdDjSJd9GhwKYa7WAABNUyqVAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"09BOQhHQ40iXfRocCmGu1gAArAaa3g==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"s.ijzer@cowmanager.com",
+       "userName":"Steven IJzer",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"thijs.griffioen@cowmanager.com",
+       "userName":"Thijs Griffioen",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"e.lankhorst@cowmanager.com",
+       "userName":"Ellen Lankhorst",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-28T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADZjMzU3ZDI4LTc0YjYtNDFiMi1hNWNjLTI3ZjFmY2Q3ZTNlMgBGAAAAAADBkC_7WfCaQoGDvyZJFdsqBwBuSP-oAFzeRb4xHon2RrO_AAAAAAENAABuSP-oAFzeRb4xHon2RrO_AAM8pYBDAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"bkj/6ABc3kW+MR6J9kazvgAFHnB64w==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"a.stigter@cowmanager.com",
+       "userName":"Arne Stigter",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-03-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-27T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADRiZWJiZDk0LTYxODctNDAyYy05ZTdmLTkwMWYxMTM1ODdjMwBGAAAAAAApZWWEC1zvT6UVvuWIWjxhBwA2rzsT982sSalk58IGKNYxAAAAAAENAAA2rzsT982sSalk58IGKNYxAARdLnlcAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Nq87E/fNrEmpZOfCBijWMQAFOpP3TQ==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADRiZWJiZDk0LTYxODctNDAyYy05ZTdmLTkwMWYxMTM1ODdjMwBGAAAAAAApZWWEC1zvT6UVvuWIWjxhBwA2rzsT982sSalk58IGKNYxAAAAAAENAAA2rzsT982sSalk58IGKNYxAARdLnlbAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Nq87E/fNrEmpZOfCBijWMQAFOpP3OQ==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"a.kusabs@cowmanager.com",
+       "userName":"Alina Kusabs",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"e.mohieldin@cowmanager.com",
+       "userName":"Emad Mohieldin",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"l.vandam@cowmanager.com",
+       "userName":"Leslie van Dam",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"s.booijink@cowmanager.com",
+       "userName":"Stef Booijink",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"a.verduijn@cowmanager.com",
+       "userName":"Arjan Verduijn",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-10T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-10T08:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADQ3ODUzM2M1LTY1MmQtNDgxNC05NmU5LTU1ODk1NGJlNWVhMgBGAAAAAAB9l5CEWxHBQ5d8CoFMKVWiBwCF2YhYXk3JQosLTfnSt7KNAAAAAAENAACF2YhYXk3JQosLTfnSt7KNAAMA3g2zAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"hdmIWF5NyUKLC0350reyjQADW+i2IA==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-03T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-03T08:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADQ3ODUzM2M1LTY1MmQtNDgxNC05NmU5LTU1ODk1NGJlNWVhMgBGAAAAAAB9l5CEWxHBQ5d8CoFMKVWiBwCF2YhYXk3JQosLTfnSt7KNAAAAAAENAACF2YhYXk3JQosLTfnSt7KNAAMA3g2jAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"hdmIWF5NyUKLC0350reyjQADWP6p+w==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-07T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-07T08:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADQ3ODUzM2M1LTY1MmQtNDgxNC05NmU5LTU1ODk1NGJlNWVhMgBGAAAAAAB9l5CEWxHBQ5d8CoFMKVWiBwCF2YhYXk3JQosLTfnSt7KNAAAAAAENAACF2YhYXk3JQosLTfnSt7KNAAMA3g2XAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"hdmIWF5NyUKLC0350reyjQADVGSblg==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-13T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-13T12:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADQ3ODUzM2M1LTY1MmQtNDgxNC05NmU5LTU1ODk1NGJlNWVhMgBGAAAAAAB9l5CEWxHBQ5d8CoFMKVWiBwCF2YhYXk3JQosLTfnSt7KNAAAAAAENAACF2YhYXk3JQosLTfnSt7KNAAMA3g2VAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"hdmIWF5NyUKLC0350reyjQADU2ZxuA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"m.vankrieken@cowmanager.com",
+       "userName":"Martin van Krieken",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"d.jansen@cowmanager.com",
+       "userName":"Duncan Jansen",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"j.kromwijk@cowmanager.com",
+       "userName":"Jesse Kromwijk",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-06T12:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-06T08:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADZmMGRkMmQwLWY2YWQtNGQzYi1iMTM0LTJmZGE0NDg4MTY1YgBGAAAAAADX2Ay-yT2-S6XmqjVIy99JBwBtB8EkEapBSr2T_kQB34-kAAAAAAENAABtB8EkEapBSr2T_kQB34-kAAIH1X6SAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"bQfBJBGqQUq9k/pEAd+P5AAC3WNJbQ==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"hr@cowmanager.com",
+       "userName":"Human Resources",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"c.koren@cowmanager.com",
+       "userName":"Charlotte Koren",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"ariqt@cowmanager.com",
+       "userName":"Ariqt Support",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"a.vanschaick@cowmanager.com",
+       "userName":"Annemiek van Schaick",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"l.kleineschaars@cowmanager.com",
+       "userName":"Luc Kleine Schaars",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-12T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-04T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADYzMjdjNTQyLTVlNzQtNGFkOS1iYzQ1LWNlMzcwZmFkNWRmMABGAAAAAADV96INzMdvRomqAa16soCZBwCWkAjaxMlRSIIcNe12OlG_AAAAAAENAACWkAjaxMlRSIIcNe12OlG_AAD619MEAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"lpAI2sTJUUiCHDXtdjpRvgABA5E48g==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"d.sieben@cowmanager.com",
+       "userName":"Dirk Sieben",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"E.Niemeijer@cowmanager.com",
+       "userName":"Evert Niemeijer",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"m.peeters@cowmanager.com",
+       "userName":"Mark Peeters",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"t.vanhemert@cowmanager.com",
+       "userName":"Ton van Hemert",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-27T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-24T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AQMkADIxZTUwNzQ1LWI3ZmMtNGI0ZC1hN2MzLTg5ZDI5YTRhMzE5MwBGAAADqv1544eySEaZ2OD9H5h9qQcAibIkMrPXsEKzCkP5u8ZV1AAAAgENAAAAibIkMrPXsEKzCkP5u8ZV1AACdk9OigAAAA==",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"ibIkMrPXsEKzCkP5u8ZV1AACyHx04g==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-21T13:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-17T13:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AQMkADIxZTUwNzQ1LWI3ZmMtNGI0ZC1hN2MzLTg5ZDI5YTRhMzE5MwBGAAADqv1544eySEaZ2OD9H5h9qQcAibIkMrPXsEKzCkP5u8ZV1AAAAgENAAAAibIkMrPXsEKzCkP5u8ZV1AACdk9OggAAAA==",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"ibIkMrPXsEKzCkP5u8ZV1AACx7PNRg==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"b.griffioen@cowmanager.com",
+       "userName":"Bram Griffioen",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGNkYmVmNDAyLWEwZjYtNDQ0Yi1hMjc1LTYzMTY0OTc0ODQ3NwBGAAAAAAC4hCeshvNUSLn5cyQYOhAyBwC27nvk1c2HTLiShpG-EkxdAAAAAAENAAC27nvk1c2HTLiShpG-EkxdAATGIQFKAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"tu575NXNh0y4koaRvxJMXQAE+7bSTg==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"support@cowmanager.com",
+       "userName":"Support CowManager",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-10T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-06T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADAyNzM2NTBjLWU0M2QtNDMyMC04ZGQwLWIwN2Q1M2VmYzFiNwBGAAAAAAChBc5L0jeUTo4OqwokNawdBwBzHKony7qMRJIxP7gkHZGrAAAAAAENAABzHKony7qMRJIxP7gkHZGrAAb_CDbfAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"cxyqJ8u6jESSMT+4JB2RqwAG/EYRuQ==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-17T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-13T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADAyNzM2NTBjLWU0M2QtNDMyMC04ZGQwLWIwN2Q1M2VmYzFiNwBGAAAAAAChBc5L0jeUTo4OqwokNawdBwBzHKony7qMRJIxP7gkHZGrAAAAAAENAADt8wGgxkBITqoCt81wdgRAAAAHl_DpAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"cxyqJ8u6jESSMT+4JB2RqwAG+lwLkQ==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"e.schellingerhout@cowmanager.com",
+       "userName":"Emiel Schellingerhout",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-01T18:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T08:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADJjNGI5ZmNkLTg0ZTAtNGU3Yy1iZTQ1LWMzNTQ0ZGFiZTY5MQBGAAAAAAAjOhosujRKQ4u8YFfNAf0UBwCLSx-ovnVbT5INmkU6TRmXAAAAAAENAACLSx-ovnVbT5INmkU6TRmXAAZgIzODAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"i0sf6L51W0+SDZpFOk0ZlwAG+Wlwrg==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"l.kastelein@cowmanager.com",
+       "userName":"Lisette Kastelein",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-09T17:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-09T08:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AQMkAGE4NTYwNzIwLWEzNWMtNDIxZS04NjYANC02NTAxZTQ2YzZlYTkARgAABK2438vPYUSmGBUo2WkfLQcAYn1s6nutZ0SdUTOgzix9ewAAAgENAAAAYn1s6nutZ0SdUTOgzix9ewAE0jbGBAAAAA==",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Yn1s6nutZ0SdUTOgzix9ewAE6kzTRA==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-02T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-02T12:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AQMkAGE4NTYwNzIwLWEzNWMtNDIxZS04NjYANC02NTAxZTQ2YzZlYTkARgAABK2438vPYUSmGBUo2WkfLQcAYn1s6nutZ0SdUTOgzix9ewAAAgENAAAAYn1s6nutZ0SdUTOgzix9ewAE0jbF-wAAAA==",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Yn1s6nutZ0SdUTOgzix9ewAE6XpJRQ==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-02T09:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-02T08:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AQMkAGE4NTYwNzIwLWEzNWMtNDIxZS04NjYANC02NTAxZTQ2YzZlYTkARgAABK2438vPYUSmGBUo2WkfLQcAYn1s6nutZ0SdUTOgzix9ewAAAgENAAAAYn1s6nutZ0SdUTOgzix9ewAE0jbF-QAAAA==",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Yn1s6nutZ0SdUTOgzix9ewAE6kzTAg==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"c.debruijn@cowmanager.com",
+       "userName":"Corné de Bruijn",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-10T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-06T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADY5NTM0NjIwLTM0MWYtNGYzMy04MDcwLTgzY2ZlMjU5YzU1ZQBGAAAAAABdmfInPvknR62kWWQ-GgwbBwABiNktuX95QbA11aN1XlkoAAAAAAENAAABiNktuX95QbA11aN1XlkoAANwBwugAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"AYjZLbl/eUGwNdWjdV5ZKAAD+281sA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"b.dhont@cowmanager.com",
+       "userName":"Ben d'Hont",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"s.schoonderwoerd@cowmanager.com",
+       "userName":"Sandra Schoonderwoerd",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-01T17:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T14:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AQMkADJhNmE4ZGYyLTYxYTYtNDUyMC1hOGQxLWFkN2Y0NzVhMjgzMABGAAADfoGikg1op062Pi3rIVzXsgcAIbfVGR1bOkyL6hiSOPs42gAAAgENAAAAIbfVGR1bOkyL6hiSOPs42gAC9njecQAAAA==",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"IbfVGR1bOkyL6hiSOPs42gADgBzUzQ==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-03T17:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-03T08:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AQMkADJhNmE4ZGYyLTYxYTYtNDUyMC1hOGQxLWFkN2Y0NzVhMjgzMABGAAADfoGikg1op062Pi3rIVzXsgcAIbfVGR1bOkyL6hiSOPs42gAAAgENAAAAIbfVGR1bOkyL6hiSOPs42gAC9njeYQAAAA==",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"IbfVGR1bOkyL6hiSOPs42gADeBzncA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"a.straathof@cowmanager.com",
+       "userName":"Anke Straathof",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"w.vanleur@cowmanager.com",
+       "userName":"Walter van Leur",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-01-31T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AQMkAGM1OTA1N2Q1LWYxNjktNGJmOS1hOWRiLWNkYWVjMTM1YjUwYgBGAAADRgMf8d5Uz0Ogfxz-DPvWyQcA08DQdD0b_0aUbGmfC2tbZgAAAgENAAAA08DQdD0b_0aUbGmfC2tbZgAEtPY2RwAAAA==",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"08DQdD0b+0aUbGmfC2tbZgAHAlyafA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"m.goertz@cowmanager.com",
+       "userName":"Moniek Göertz",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AQMkADcwZGMxODYyLWQ5NTQtNGUyYy05NjE4LTAyMgE2MTZmYjVmNABGAAADMfZQZaYuRUO9IUNEfuyt8AcAaVoK0MpvEkqVFX5jr9piRwAAAgENAAAAaVoK0MpvEkqVFX5jr9piRwACvNxS1wAAAA==",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"aVoK0MpvEkqVFX5jr9piRwADcAEvJQ==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"x.geering@cowmanager.com",
+       "userName":"Xander Geering",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"sales@cowmanager.com",
+       "userName":"CowManager Sales",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"a.dolfing@cowmanager.com",
+       "userName":"Albertha Dolfing",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"r.braam@cowmanager.com",
+       "userName":"Renée Braam",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"m.vos@cowmanager.com",
+       "userName":"Mike Vos",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"j.ruijgt@cowmanager.com",
+       "userName":"Janneke Ruijgt",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-03-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-24T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGY2ODRhM2JiLTQyZDMtNDYzYy04NDI1LTY2ZTE1ZjdmOWMzOQBGAAAAAAAi1f8JFdsiQ5YCSGSlgzIHBwDBOc6UlFgiRaNI07IH-YZvAAAAAAENAADBOc6UlFgiRaNI07IH-YZvAAE-Ki6tAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"wTnOlJRYIkWjSNOyB/2GbwACAvbeRA==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-07T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-07T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGY2ODRhM2JiLTQyZDMtNDYzYy04NDI1LTY2ZTE1ZjdmOWMzOQBGAAAAAAAi1f8JFdsiQ5YCSGSlgzIHBwDBOc6UlFgiRaNI07IH-YZvAAAAAAENAADBOc6UlFgiRaNI07IH-YZvAAE-Ki6sAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"wTnOlJRYIkWjSNOyB/2GbwACAvbeQw==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"researchdevelopment@cowmanager.com",
+       "userName":"Research & Development",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"s.karsemeijer@cowmanager.com",
+       "userName":"Simone Karsemeijer",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"j.roodenburg@cowmanager.com",
+       "userName":"Jan Roodenburg",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-03-01T17:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-03-01T12:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGI2MDM2ODYwLTE4NGUtNGEwZC1iMWVlLTg2OTcxMGYyNmYxMwBGAAAAAACNdObNsemYT6yuFYMjP0YJBwDDGuwL1H67RYZPl9leGJDpAAAAAAENAADDGuwL1H67RYZPl9leGJDpAAAAAmuyAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"wxrsC9R+u0WGT5fZXhiQ6QAAqKcRnQ==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-22T18:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-22T09:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGI2MDM2ODYwLTE4NGUtNGEwZC1iMWVlLTg2OTcxMGYyNmYxMwBGAAAAAACNdObNsemYT6yuFYMjP0YJBwDDGuwL1H67RYZPl9leGJDpAAAAAAENAADDGuwL1H67RYZPl9leGJDpAAAAAmuxAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"wxrsC9R+u0WGT5fZXhiQ6QAAzzgTeQ==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-15T18:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-15T13:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGI2MDM2ODYwLTE4NGUtNGEwZC1iMWVlLTg2OTcxMGYyNmYxMwBGAAAAAACNdObNsemYT6yuFYMjP0YJBwDDGuwL1H67RYZPl9leGJDpAAAAAAENAADDGuwL1H67RYZPl9leGJDpAAAAAmuwAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"wxrsC9R+u0WGT5fZXhiQ6QAAqKcRjg==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-08T18:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-08T13:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGI2MDM2ODYwLTE4NGUtNGEwZC1iMWVlLTg2OTcxMGYyNmYxMwBGAAAAAACNdObNsemYT6yuFYMjP0YJBwDDGuwL1H67RYZPl9leGJDpAAAAAAENAADDGuwL1H67RYZPl9leGJDpAAAAAmuvAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"wxrsC9R+u0WGT5fZXhiQ6QAAqKcRaQ==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-01T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T09:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGI2MDM2ODYwLTE4NGUtNGEwZC1iMWVlLTg2OTcxMGYyNmYxMwBGAAAAAACNdObNsemYT6yuFYMjP0YJBwDDGuwL1H67RYZPl9leGJDpAAAAAAENAADDGuwL1H67RYZPl9leGJDpAAAAAmvhAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"wxrsC9R+u0WGT5fZXhiQ6QAAywzGkA==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-24T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-24T09:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGI2MDM2ODYwLTE4NGUtNGEwZC1iMWVlLTg2OTcxMGYyNmYxMwBGAAAAAACNdObNsemYT6yuFYMjP0YJBwDDGuwL1H67RYZPl9leGJDpAAAAAAENAADDGuwL1H67RYZPl9leGJDpAAAAAmu6AAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"wxrsC9R+u0WGT5fZXhiQ6QAAqKcRvA==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-17T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-17T09:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGI2MDM2ODYwLTE4NGUtNGEwZC1iMWVlLTg2OTcxMGYyNmYxMwBGAAAAAACNdObNsemYT6yuFYMjP0YJBwDDGuwL1H67RYZPl9leGJDpAAAAAAENAADDGuwL1H67RYZPl9leGJDpAAAAAmu5AAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"wxrsC9R+u0WGT5fZXhiQ6QAAqKcRuw==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-10T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-10T09:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGI2MDM2ODYwLTE4NGUtNGEwZC1iMWVlLTg2OTcxMGYyNmYxMwBGAAAAAACNdObNsemYT6yuFYMjP0YJBwDDGuwL1H67RYZPl9leGJDpAAAAAAENAADDGuwL1H67RYZPl9leGJDpAAAAAmu4AAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"wxrsC9R+u0WGT5fZXhiQ6QAAqKcRtg==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"c.dekker@cowmanager.com",
+       "userName":"Chantal Dekker",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-13T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-13T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGY3ZDNhYmE0LTExM2EtNGQ5OC1hMTg4LWYzNDkyNTAxNGVkYwBGAAAAAAAot_JiPuwwQaANaAgPrCi9BwDySfB_2DBBTbhhe5LxhQvHAAAAAAENAADySfB_2DBBTbhhe5LxhQvHAABEkaTRAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"8knwftgwQU24YXuS8YULxwAAraP0GA==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-03-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-25T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGY3ZDNhYmE0LTExM2EtNGQ5OC1hMTg4LWYzNDkyNTAxNGVkYwBGAAAAAAAot_JiPuwwQaANaAgPrCi9BwDySfB_2DBBTbhhe5LxhQvHAAAAAAENAADySfB_2DBBTbhhe5LxhQvHAABEkaTFAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"8knwftgwQU24YXuS8YULxwAAraPqGA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"n.vanthoog@cowmanager.com",
+       "userName":"Nicolien van ’t Hoog",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"j.vanhusen@cowmanager.com",
+       "userName":"Jan van Husen",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"s.janssen@cowmanager.com",
+       "userName":"Sebastiaan Janssen",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGNhNzNjZDk5LThiN2MtNGEzOS1iNWZiLTQ5ZDdlNjkyYzg4MgBGAAAAAAAGPzOK9h6RRI1aB9sSbFWsBwCpPeQL6HjtTbrTpP0ZmiqGAAAAAAENAACpPeQL6HjtTbrTpP0ZmiqGAAAUo9X5AAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"qT3kC+h47U2606T9GZoqhgAAkQDPuQ==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"a.vanwijk@cowmanager.com",
+       "userName":"Angeline van Wijk",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-08T11:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-08T09:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AQMkADk0MmE0M2RiLTkyNjgtNDgyMS1hZTgyLWZiMTY3OTY1NmQ5OABGAAADndUWUopVdESp9PjVVVFYtQcAu5Y_IC5-xU_YsNWq3GZGhAAAAgENAAAAu5Y_IC5-xU_YsNWq3GZGhAAC9d-QHwAAAA==",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"u5Y+IC5/xU+YsNWq3GZGhAADVEOSuQ==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"k.vanmeurs@cowmanager.com",
+       "userName":"Koen van Meurs",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"l.hermeling@cowmanager.com",
+       "userName":"Lotte Hermeling",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"c.schlaepfer@cowmanager.com",
+       "userName":"Céline Schlaepfer",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"m.vanmensvoort@cowmanager.com",
+       "userName":"Marc van Mensvoort",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"r.vandersteege@cowmanager.com",
+       "userName":"Reinier van der Steege",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"c.huiden@cowmanager.com",
+       "userName":"Ceesjan Huiden",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-07T10:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-07T09:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGQ2NjllMWZmLTMxNDYtNDFjYi1hNDYyLTJmNDM2Njc5NjJiYwBGAAAAAABChfvKLNFTSoQET7U6Zr5qBwAi9m3Nm9bCRKhVTQeAewTpAAAAAAENAAAi9m3Nm9bCRKhVTQeAewTpAAC2WbVPAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"IvZtzZvWwkSoVU0HgHsE6QABi05QYg==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-08T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-08T08:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGQ2NjllMWZmLTMxNDYtNDFjYi1hNDYyLTJmNDM2Njc5NjJiYwBGAAAAAABChfvKLNFTSoQET7U6Zr5qBwAi9m3Nm9bCRKhVTQeAewTpAAAAAAENAAAi9m3Nm9bCRKhVTQeAewTpAAC2WbUtAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"IvZtzZvWwkSoVU0HgHsE6QABggOLqw==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"r.versteeg@cowmanager.com",
+       "userName":"Roy Versteeg",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"a.walboom@cowmanager.com",
+       "userName":"Anne Walboom",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-02T10:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGU5MGViZDc3LThjMDktNDM0MS05YWE5LWFiY2I1MWZhYTQxNwBGAAAAAACEfa3sm017RbC62zeQNAvOBwCdyoHpvUmlTqXO_UOB-xViAAAAAAENAACdyoHpvUmlTqXO_UOB-xViAACcsUdiAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"ncqB6b1JpU6lzvlDgf8VYgABRp4O/w==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"e.clifford@cowmanager.com",
+       "userName":"Erwin Clifford",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"p.hulsmeijer@cowmanager.com",
+       "userName":"Patrick Hulsmeijer",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"m.vanderlugt@cowmanager.com",
+       "userName":"Marjon van der Lugt",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"c.steenbergen@cowmanager.com",
+       "userName":"Claudia Steenbergen",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"p.bijker@cowmanager.com",
+       "userName":"Philip Bijker",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"h.goemans@cowmanager.com",
+       "userName":"Hidde Goemans",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"k.kemp@cowmanager.com",
+       "userName":"Karin Kemp",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"e.maarleveld@cowmanager.com",
+       "userName":"Erwin Maarleveld",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"al.nooren@cowmanager.com",
+       "userName":"Anna Lisa Nooren",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-17T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-13T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGJhOGQ1Nzk3LTk0MDAtNDEyOC1iODBhLTliMDhkNjQ1ZWU3NwBGAAAAAACETW-JXoiaRI-SPzOMlC84BwDt8wGgxkBITqoCt81wdgRAAAAAAAENAADt8wGgxkBITqoCt81wdgRAAAAHl09SAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"7fMBoMZASE6qArfNcHYEQAAAmxKiVA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"n.vanderwijngaard@cowmanager.com",
+       "userName":"Nick van der Wijngaard",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"c.kielstra@cowmanager.com",
+       "userName":"Carlo Kielstra",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-03-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-24T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGE3YTZkZjAzLWY3NzMtNDk1Yi04ZjlkLTY2ZDc1ZjMwZTM4NQBGAAAAAADOMPt4Ij1MQomwDycjvmw9BwCpIK1u4TcuTbd5Je3QXm6UAAAAAAENAACpIK1u4TcuTbd5Je3QXm6UAAACFy5uAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"qSCtbuE3Lk23eSXt0F5ulAAAROvGoQ==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"gj.hiddink@cowmanager.com",
+       "userName":"Gert-Jan Hiddink",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-10T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-06T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADdjMjAzZGY3LTJjOGEtNDVlMi05ODg5LWNmMDdhNGExZWE0MABGAAAAAAA7SXhmfvsVTJwZINhEhPu7BwDyp37he706Q7yRNHy8DEPaAAAAAAENAADyp37he706Q7yRNHy8DEPaAAOSfaqGAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"8qd+4Xu9OkO8kTR8vAxD2gAFPwTI7A==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"j.vantongeren@cowmanager.com",
+       "userName":"Jos van Tongeren",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-15T07:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-03T16:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADAxNzQ2ZDExLTI3OGEtNDBlNi1hYjMxLTU1NzEwMWI1NzVlMwBGAAAAAAD-iZ6Lc3WsSbNG__ZX3yaZBwDl1LsZUym3R723mb2jTfsQAAAAAAENAADl1LsZUym3R723mb2jTfsQAAMXBx0BAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"5dS7GVMpt0e9t5m9o037EAAEu3kGWA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"b.brouwer@cowmanager.com",
+       "userName":"Bodei Brouwer",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"m.veld@cowmanager.com",
+       "userName":"Martijn Veld",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"p.vanslooten@cowmanager.com",
+       "userName":"Priscilla van Slooten",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"jh.thye-lokenberg@cowmanager.com",
+       "userName":"Jan-H. Thye-Lokenberg",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"a.nederveen@cowmanager.com",
+       "userName":"Andrea Nederveen",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"b.spelbos@cowmanager.com",
+       "userName":"Bernd Spelbos",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-06T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-06T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADg3MzQ1MTk2LTgxNmEtNGM2Yy05OWIzLTkxZmNjZDhjYTlmZQBGAAAAAABx4oE6cGPKQZ4WfqZl4T2iBwCQ2UQ1Mh89TamuSAt6Go_SAAAAAAENAACQ2UQ1Mh89TamuSAt6Go_SAAD2u1lKAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"kNlENTIfPU2prkgLehqPkgACCdsQOA==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-03-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-03-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADg3MzQ1MTk2LTgxNmEtNGM2Yy05OWIzLTkxZmNjZDhjYTlmZQBGAAAAAABx4oE6cGPKQZ4WfqZl4T2iBwCQ2UQ1Mh89TamuSAt6Go_SAAAAAAENAACQ2UQ1Mh89TamuSAt6Go_SAAD2u1kUAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"kNlENTIfPU2prkgLehqPkgAB9uv6EA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"m.alting@cowmanager.com",
+       "userName":"Marianda Alting",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-04T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADlhZDE0OTAyLWI5M2UtNDBmZS1iYWMwLTUyNWFlMWZjZDZjZQBGAAAAAACo5qjj87g5RZdgHp7zyLFQBwAp4wiACYLyRLJj1LR1o1mzAAAAAAENAAAp4wiACYLyRLJj1LR1o1mzAAAKTMD7AAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"KeMIgAmC8kSyY9S0daNZswAAL8EMwA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"t.benner@cowmanager.com",
+       "userName":"Tom Benner",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"m.vanderven@cowmanager.com",
+       "userName":"Marc van der Ven",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"j.debree@cowmanager.com",
+       "userName":"Jacob de Bree",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"t.crijns@cowmanager.com",
+       "userName":"Thorstin Crijns",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADVlYjg4MWJmLWJhMDMtNGFiNC05MjAxLTk5ZTMyOTA5MjJkZgBGAAAAAAASvfhzqWxET5GLUl-HLfT3BwDdgJ-ASn6WRISabZ7hlJyPAAAAAAENAADdgJ-ASn6WRISabZ7hlJyPAAAOX4Y4AAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"3YCfwEp+lkSEmm2e4ZScjwAATeV+Tw==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"p.vangriensven@cowmanager.com",
+       "userName":"Patrick van Griensven",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-03T22:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-03T16:45:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADM3NGQ4NTczLWQzOWEtNDI1Zi1hYzdlLTE3NTA4OWRlZWFkYQBGAAAAAADKhKemuiEdQJ8ZS30mWuVjBwCQN_D-bT0hRY1homX67w1gAAAAAAENAACQN_D-bT0hRY1homX67w1gAAAM5oEfAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"kDfg/209IUWNYaJl+u8NYAAA+DJLCw==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-24T17:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-24T08:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADM3NGQ4NTczLWQzOWEtNDI1Zi1hYzdlLTE3NTA4OWRlZWFkYQBGAAAAAADKhKemuiEdQJ8ZS30mWuVjBwCQN_D-bT0hRY1homX67w1gAAAAAAENAACQN_D-bT0hRY1homX67w1gAAAM5oDqAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"kDfg/209IUWNYaJl+u8NYAAA0eVO1g==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"j.dejong@cowmanager.com",
+       "userName":"Johan de Jong",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"a.decker@cowmanager.com",
+       "userName":"Annemarie Decker",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-24T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-24T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADdmNmQyYjMzLTc3OWQtNGIyOS04OGYwLWYxYTU5MjQwYTg0MQBGAAAAAACMdqICqKEPR5kG8BFpa5kQBwCq1zLGQP5TSYaQaF0MizBFAAAAAAENAACq1zLGQP5TSYaQaF0MizBFAAAJjI7nAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"qtcyxkD+U0mGkGhdDIswRQAANtcykA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"m.minderman@cowmanager.com",
+       "userName":"Madelon Minderman",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"n.rens@cowmanager.com",
+       "userName":"Nathalie Rens",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-08T14:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-08T13:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADExZDk5ODdiLTU5ZDktNDFhNS1iNmEwLTNjZDY1NDAxOTI5YwBGAAAAAAC-qmNXKPv9Raq9Tb5wViKuBwAfcbbrYgX7T4VGt_XoigRoAAAAAAENAAAfcbbrYgX7T4VGt_XoigRoAAEk532EAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"H3G262IF+0+FRrfl6IoEaAABhc5Kww==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-13T15:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-13T14:50:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADExZDk5ODdiLTU5ZDktNDFhNS1iNmEwLTNjZDY1NDAxOTI5YwBGAAAAAAC-qmNXKPv9Raq9Tb5wViKuBwAfcbbrYgX7T4VGt_XoigRoAAAAAAENAAAfcbbrYgX7T4VGt_XoigRoAAEk532AAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"H3G262IF+0+FRrfl6IoEaAABhc48Uw==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-03-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-03-02T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADExZDk5ODdiLTU5ZDktNDFhNS1iNmEwLTNjZDY1NDAxOTI5YwBGAAAAAAC-qmNXKPv9Raq9Tb5wViKuBwAfcbbrYgX7T4VGt_XoigRoAAAAAAENAAAfcbbrYgX7T4VGt_XoigRoAAEk530qAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"H3G262IF+0+FRrfl6IoEaAABef89wA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"c.boschma@cowmanager.com",
+       "userName":"Coby Boschma",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"p.schalkwijk@cowmanager.com",
+       "userName":"Patrick Schalkwijk",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"k.sars@cowmanager.com",
+       "userName":"Kevin Sars",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-14T16:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-14T15:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGQ0YTI5ODM3LTNkOGUtNGJhZi1hZWJhLWMwY2FhODQwNTgwNQBGAAAAAACCbgI26mPwS7EkS15W_GowBwAaP8VR-YduRY_xO84Zcs8OAAAAAAENAAAaP8VR-YduRY_xO84Zcs8OAABSic5xAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Gj/FUf2HbkWPsTvOGXLPDgABMK7qZw==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-14T17:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-14T16:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGQ0YTI5ODM3LTNkOGUtNGJhZi1hZWJhLWMwY2FhODQwNTgwNQBGAAAAAACCbgI26mPwS7EkS15W_GowBwAaP8VR-YduRY_xO84Zcs8OAAAAAAENAAAaP8VR-YduRY_xO84Zcs8OAABSic5wAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Gj/FUf2HbkWPsTvOGXLPDgABMK7qZg==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-03-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-03-01T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGQ0YTI5ODM3LTNkOGUtNGJhZi1hZWJhLWMwY2FhODQwNTgwNQBGAAAAAACCbgI26mPwS7EkS15W_GowBwAaP8VR-YduRY_xO84Zcs8OAAAAAAENAAAaP8VR-YduRY_xO84Zcs8OAABSic5cAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Gj/FUf2HbkWPsTvOGXLPDgABLawYAA==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-28T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-28T14:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGQ0YTI5ODM3LTNkOGUtNGJhZi1hZWJhLWMwY2FhODQwNTgwNQBGAAAAAACCbgI26mPwS7EkS15W_GowBwAaP8VR-YduRY_xO84Zcs8OAAAAAAENAAAaP8VR-YduRY_xO84Zcs8OAABSic5bAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Gj/FUf2HbkWPsTvOGXLPDgABLawWCw==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-19T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-16T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGQ0YTI5ODM3LTNkOGUtNGJhZi1hZWJhLWMwY2FhODQwNTgwNQBGAAAAAACCbgI26mPwS7EkS15W_GowBwAaP8VR-YduRY_xO84Zcs8OAAAAAAENAAAaP8VR-YduRY_xO84Zcs8OAADiNXqnAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Gj/FUf2HbkWPsTvOGXLPDgAA4XEeKg==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-01T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-01T13:30:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGQ0YTI5ODM3LTNkOGUtNGJhZi1hZWJhLWMwY2FhODQwNTgwNQBGAAAAAACCbgI26mPwS7EkS15W_GowBwAaP8VR-YduRY_xO84Zcs8OAAAAAAENAAAaP8VR-YduRY_xO84Zcs8OAABSiWq0AAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Gj/FUf2HbkWPsTvOGXLPDgABNqHnNA==\""
+          },
+          {
+             "end":{
+                "dateTime":"2023-02-03T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-02T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkAGQ0YTI5ODM3LTNkOGUtNGJhZi1hZWJhLWMwY2FhODQwNTgwNQBGAAAAAACCbgI26mPwS7EkS15W_GowBwAaP8VR-YduRY_xO84Zcs8OAAAAAAENAAAaP8VR-YduRY_xO84Zcs8OAABSiWqzAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"Gj/FUf2HbkWPsTvOGXLPDgABNCMYgw==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"e.schimmel@cowmanager.com",
+       "userName":"Emiel Schimmel",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-02T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-02T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADU4YjcxOTQxLWI2NTUtNDk2NC04YjM5LTZjMDMyNTA5ZjQzYwBGAAAAAAAgsqqfALH1TaEHezvKc_zpBwBJLlbWLSbISou3xs5BK2hmAAAAAAENAABJLlbWLSbISou3xs5BK2hmAACPQuPEAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"SS5W1i0myEqLt8bOQStoZgABzPzk/A==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"i.denuijl@cowmanager.com",
+       "userName":"Ingrid den Uijl",
+       "oofEvents":[
+          
+       ]
+    },
+    {
+       "userEmail":"n.vanderhorst@cowmanager.com",
+       "userName":"Nicoline van der Horst",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-07T17:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":false,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-07T13:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AQMkAGJkM2MzODQ4LTYzZWUALTQ3YmYtYWJkYy01MWZhNzFmZTEyYmYARgAAAzxOv2mRiClBvuMC5CBQ0akHALVGm_w18NJPtkduePcJqUIAAAIBDQAAALVGm_w18NJPtkduePcJqUIAAAKZXgAAAA==",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"tUab7DXw0k+2R2549wmpQgABFvniJA==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"c.vanschaik@cowmanager.com",
+       "userName":"Corne van Schaik",
+       "oofEvents":[
+          {
+             "end":{
+                "dateTime":"2023-02-06T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "isAllDay":true,
+             "showAs":"Oof",
+             "start":{
+                "dateTime":"2023-02-06T00:00:00.0000000",
+                "timeZone":"W. Europe Standard Time"
+             },
+             "id":"AAMkADY3YjIyOWNjLWU1ODktNDAyOC1iMDU3LTViMjMzYzExNDk3MQBGAAAAAAB4ghGKQ6m1QIs0k_NZbfuNBwCCyqJSpTynT7lV6SFAuxeJAAAAAAENAACCyqJSpTynT7lV6SFAuxeJAAW93Q0mAAA=",
+             "@odata.type":"microsoft.graph.event",
+             "@odata.etag":"W/\"gsqiUqU8p0+5VekhQLsXiQAGeGp2jw==\""
+          }
+       ]
+    },
+    {
+       "userEmail":"c.bosland@cowmanager.com",
+       "userName":"Charlotte Bosland",
+       "oofEvents":[
+          
+       ]
+    }
+ ]

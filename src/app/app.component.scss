@@ -1,0 +1,26 @@
+.loader {
+        content: url("../assets/loader.gif");
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 3%;
+        width: 3%;
+      }
+
+      .scrollmenu {
+        // background-color: whitesmoke;
+        overflow: auto;
+        white-space: nowrap;
+      }
+      
+//       div.scrollmenu a {
+//         display: inline-block;
+//         color: white;
+//         text-align: center;
+//         padding: 14px;
+//         text-decoration: none;
+//       }
+      
+//       div.scrollmenu a:hover {
+//         // background-color: #777;
+//       }
